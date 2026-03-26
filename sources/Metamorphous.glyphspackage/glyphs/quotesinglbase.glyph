@@ -1,0 +1,32 @@
+{
+glyphname = quotesinglbase;
+layers = (
+{
+guides = (
+{
+pos = (0,299);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (2,0);
+ref = comma;
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 299;
+}
+);
+};
+width = 512;
+}
+);
+unicode = 8218;
+}

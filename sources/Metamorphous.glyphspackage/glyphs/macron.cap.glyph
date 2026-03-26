@@ -1,0 +1,28 @@
+{
+glyphname = macron.cap;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (305,1530);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(611,1699,l),
+(611,1882,l),
+(0,1853,l),
+(0,1722,l,{
+name = hr00;
+})
+);
+}
+);
+width = 612;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Nacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (523,0);
+ref = acute.cap;
+}
+);
+width = 1703;
+}
+);
+unicode = 323;
+}

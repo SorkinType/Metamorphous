@@ -1,0 +1,19 @@
+{
+glyphname = Ncaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (504,0);
+ref = caron.cap;
+}
+);
+width = 1703;
+}
+);
+unicode = 327;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = ecaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (55,0);
+ref = caron;
+}
+);
+width = 1195;
+}
+);
+unicode = 283;
+}

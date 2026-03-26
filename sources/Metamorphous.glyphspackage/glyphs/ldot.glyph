@@ -1,0 +1,15 @@
+{
+glyphname = ldot;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = l;
+}
+);
+width = 686;
+}
+);
+unicode = 320;
+}

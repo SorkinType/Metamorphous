@@ -1,0 +1,19 @@
+{
+glyphname = uring;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (170,0);
+ref = ring;
+}
+);
+width = 1361;
+}
+);
+unicode = 367;
+}

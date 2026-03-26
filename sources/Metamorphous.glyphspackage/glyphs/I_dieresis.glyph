@@ -1,0 +1,19 @@
+{
+glyphname = Idieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-83,0);
+ref = dieresis.cap;
+}
+);
+width = 848;
+}
+);
+unicode = 207;
+}

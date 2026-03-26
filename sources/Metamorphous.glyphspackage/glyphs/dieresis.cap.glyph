@@ -1,0 +1,37 @@
+{
+glyphname = dieresis.cap;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (510,1530);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(926,1793,l),
+(747,1972,l),
+(564,1793,l),
+(747,1612,l,{
+name = hr00;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(456,1793,l),
+(277,1972,l),
+(94,1793,l),
+(277,1612,l)
+);
+}
+);
+width = 1020;
+}
+);
+}

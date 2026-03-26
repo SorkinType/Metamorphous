@@ -1,0 +1,54 @@
+{
+glyphname = hungarumlaut;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (510,1530);
+}
+);
+guides = (
+{
+pos = (0,1430);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1008,1780,l),
+(833,1880,l),
+(597,1414,l),
+(695,1359,l,{
+name = hr00;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(563,1780,l),
+(388,1880,l),
+(152,1414,l),
+(250,1359,l)
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1430;
+}
+);
+};
+width = 1022;
+}
+);
+unicode = 733;
+}

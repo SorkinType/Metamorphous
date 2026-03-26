@@ -1,0 +1,28 @@
+{
+glyphname = dotaccent.cap;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (306,1530);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(486,1793,l),
+(308,1972,l),
+(126,1793,l),
+(308,1613,l,{
+name = hr00;
+})
+);
+}
+);
+width = 612;
+}
+);
+}

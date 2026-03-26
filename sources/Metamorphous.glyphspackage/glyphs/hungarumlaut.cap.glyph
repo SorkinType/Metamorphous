@@ -1,0 +1,37 @@
+{
+glyphname = hungarumlaut.cap;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (407,1530);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(808,1836,l),
+(702,1970,l),
+(400,1692,l),
+(455,1628,l,{
+name = hr00;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(414,1836,l),
+(308,1970,l),
+(6,1692,l),
+(61,1628,l)
+);
+}
+);
+width = 680;
+}
+);
+}

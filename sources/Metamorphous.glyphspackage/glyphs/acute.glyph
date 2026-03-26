@@ -1,0 +1,29 @@
+{
+glyphname = acute;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (483,1530);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(791,1746,l),
+(581,1880,l),
+(328,1414,l),
+(426,1359,l,{
+name = hr00;
+})
+);
+}
+);
+width = 850;
+}
+);
+unicode = 180;
+}

@@ -1,0 +1,55 @@
+{
+glyphname = breve;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (593,1530);
+}
+);
+guides = (
+{
+pos = (0,1827);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(915,1488,o),
+(937,1767,o),
+(943,1835,c),
+(838,1835,l),
+(817,1721,o),
+(730,1649,o),
+(593,1649,cs),
+(457,1649,o),
+(370,1721,o),
+(349,1835,c),
+(244,1835,l),
+(250,1767,o),
+(272,1488,o),
+(589,1488,cs,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1827;
+}
+);
+};
+width = 1188;
+}
+);
+unicode = 728;
+}

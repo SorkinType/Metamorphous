@@ -1,0 +1,29 @@
+{
+glyphname = dotaccent;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (306,1530);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(486,1651,l),
+(308,1830,l),
+(126,1651,l),
+(308,1471,l,{
+name = hr00;
+})
+);
+}
+);
+width = 612;
+}
+);
+unicode = 729;
+}

@@ -1,0 +1,32 @@
+{
+glyphname = caron;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (603,1530);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(738,1364,l),
+(964,1817,l),
+(879,1859,l),
+(609,1517,l),
+(339,1859,l),
+(254,1817,l),
+(482,1364,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1207;
+}
+);
+unicode = 711;
+}

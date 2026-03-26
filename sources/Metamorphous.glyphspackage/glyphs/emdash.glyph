@@ -1,0 +1,23 @@
+{
+glyphname = emdash;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1809,753,l),
+(1850,919,l),
+(227,919,l),
+(188,753,l,{
+name = hr00;
+})
+);
+}
+);
+width = 2039;
+}
+);
+unicode = 8212;
+}

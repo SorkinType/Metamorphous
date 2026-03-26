@@ -1,0 +1,728 @@
+{
+.appVersion = "3517";
+.formatVersion = 3;
+customParameters = (
+{
+name = macintoshFONDFamilyID;
+value = 128;
+},
+{
+name = macintoshFONDName;
+value = Metamorphous;
+},
+{
+name = descriptions;
+value = "Metamorphous is a medium contrast design taking style cues from a wide variety of sources. It draws on and mixes together Romanesque, Gothic and the more familiar Remaissance letter shapes. Originally inspired by display fonts including the free font Morpheous designed by Kiwi Media as well as the work of Jonathan Barnbrook; Metamorphous is designed to be useful in a broad range of applications and sizes. Metamorphous also covers most languages that use Latin letters. ";
+},
+{
+name = licenses;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = uniqueID;
+value = "JamesGrieshaber: Metamorphous: 2011";
+},
+{
+name = versionString;
+value = "Version 1.001";
+},
+{
+name = panose;
+value = (
+2,
+0,
+6,
+6,
+8,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = vendorID;
+value = STC;
+},
+{
+name = blueFuzz;
+value = 1;
+},
+{
+name = blueScale;
+value = 0.363636;
+},
+{
+name = blueShift;
+value = 7;
+},
+{
+name = trademarks;
+value = "Metamorphous is a trademark of Sorkin Type Co.";
+},
+{
+name = year;
+value = 2011;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = "Use Line Breaks";
+value = 1;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+}
+);
+date = "2026-03-26 04:02:04 +0000";
+familyName = Metamorphous;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature sups;
+feature frac;
+feature ordn;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub fi by f i;
+	sub fl by f l;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;
+language ROM;
+lookup locl_latn_0 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+} locl_latn_0;
+language MOL;
+lookup locl_latn_0;
+
+script latn;
+language CAT;
+lookup locl_latn_1 {
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f i by fi;
+sub f l by fl;
+";
+tag = liga;
+}
+);
+fontMaster = (
+{
+customParameters = (
+{
+name = "UFO Filename";
+value = Metamorphous.ufo;
+},
+{
+name = typoAscender;
+value = 1972;
+},
+{
+name = typoDescender;
+value = -588;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1972;
+},
+{
+name = hheaDescender;
+value = -588;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1972;
+},
+{
+name = winDescent;
+value = 588;
+},
+{
+name = strikeoutPosition;
+value = 512;
+},
+{
+name = strikeoutSize;
+value = 102;
+},
+{
+name = underlineThickness;
+value = 94;
+},
+{
+name = underlinePosition;
+value = -98;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1434;
+},
+{
+name = subscriptYOffset;
+value = 287;
+},
+{
+name = subscriptYSize;
+value = 1331;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1434;
+},
+{
+name = superscriptYOffset;
+value = 977;
+},
+{
+name = superscriptYSize;
+value = 1331;
+}
+);
+id = m001;
+metricValues = (
+{
+pos = 1972;
+},
+{
+pos = 1530;
+},
+{
+over = 58;
+pos = 1208;
+},
+{
+over = -59;
+},
+{
+pos = -588;
+},
+{
+},
+{
+pos = 1552;
+},
+{
+over = -21;
+pos = -566;
+}
+);
+name = Regular;
+stemValues = (
+203,
+228,
+360,
+86,
+113
+);
+}
+);
+instances = (
+{
+customParameters = (
+{
+name = postscriptWeightName;
+value = Regular;
+}
+);
+instanceInterpolations = {
+m001 = 1;
+};
+name = Regular;
+properties = (
+{
+key = postscriptFontName;
+value = Metamorphous;
+},
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = Metamorphous;
+}
+);
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = Metamorphous;
+}
+);
+}
+);
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+},
+{
+name = "zone 1";
+},
+{
+name = "zone 2";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)
+with Reserved Font Name \"Metamorphous\". ";
+}
+);
+},
+{
+key = descriptions;
+values = (
+{
+language = dflt;
+value = "Metamorphous is a medium contrast design taking style cues from a wide variety of sources. It draws on and mixes together Romanesque, Gothic and the more familiar Remaissance letter shapes. Originally inspired by display fonts including the free font Morpheous designed by Kiwi Media as well as the work of Jonathan Barnbrook; Metamorphous is designed to be useful in a broad range of applications and sizes. Metamorphous also covers most languages that use Latin letters. ";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "James Grieshaber";
+}
+);
+},
+{
+key = designerURL;
+value = www.typeco.com;
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "James Grieshaber";
+}
+);
+},
+{
+key = manufacturerURL;
+value = www.sorkintype.com;
+},
+{
+key = trademarks;
+values = (
+{
+language = dflt;
+value = "Metamorphous is a trademark of Sorkin Type Co.";
+}
+);
+},
+{
+key = uniqueID;
+value = "JamesGrieshaber: Metamorphous: 2011";
+},
+{
+key = vendorID;
+value = STC;
+},
+{
+key = versionString;
+value = "Version 1.001";
+}
+);
+stems = (
+{
+name = vStem0;
+},
+{
+name = vStem1;
+},
+{
+name = vStem2;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+horizontal = 1;
+name = hStem1;
+}
+);
+unitsPerEm = 2048;
+userData = {
+UFO.lib = {
+com.fontlab.v2.tth = {
+stems = {
+"X: 203" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"17" = 2;
+"27" = 3;
+"34" = 4;
+"45" = 5;
+"56" = 6;
+};
+width = 203;
+};
+"X: 228" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"17" = 2;
+"27" = 3;
+"34" = 4;
+"45" = 5;
+"50" = 6;
+};
+width = 228;
+};
+"X: 360" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"15" = 3;
+"20" = 4;
+"26" = 5;
+"32" = 6;
+"9" = 2;
+};
+width = 360;
+};
+"X: 77" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"17" = 2;
+"27" = 3;
+"42" = 4;
+"59" = 5;
+"72" = 6;
+};
+width = 158;
+};
+"X: 95" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"17" = 2;
+"27" = 3;
+"42" = 4;
+"45" = 5;
+"58" = 6;
+};
+width = 195;
+};
+"Y: 113" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"100" = 6;
+"37" = 2;
+"46" = 3;
+"64" = 4;
+"82" = 5;
+};
+width = 113;
+};
+"Y: 34" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"133" = 5;
+"162" = 6;
+"37" = 2;
+"67" = 3;
+"94" = 4;
+};
+width = 70;
+};
+"Y: 42" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"108" = 5;
+"131" = 6;
+"37" = 2;
+"67" = 3;
+"94" = 4;
+};
+width = 86;
+};
+};
+zones = {
+"b: 0" = {
+position = 0;
+top = 0;
+width = 8;
+};
+"t: 0" = {
+position = 563;
+top = 1;
+width = 18;
+};
+"t: 1" = {
+position = 705;
+top = 1;
+width = 23;
+};
+"t: 2" = {
+position = 729;
+top = 1;
+width = 2;
+};
+};
+};
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 6542;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1153;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -24;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1919;
+},
+{
+angle = 0.02;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -352;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1711;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 6485;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 6485;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 851;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 697;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1123;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1228;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -89;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1551;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1443;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -68;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1189;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1221;
+}
+);
+};
+UFOFormat = 2;
+};
+versionMajor = 1;
+versionMinor = 1;
+}

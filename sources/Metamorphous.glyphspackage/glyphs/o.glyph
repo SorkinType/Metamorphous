@@ -1,0 +1,107 @@
+{
+glyphname = o;
+layers = (
+{
+anchors = (
+{
+name = btm;
+pos = (681,0);
+},
+{
+name = top;
+pos = (681,1530);
+}
+);
+guides = (
+{
+pos = (0,610);
+},
+{
+angle = 90;
+pos = (117,0);
+},
+{
+angle = 90;
+pos = (1258,0);
+},
+{
+angle = 90;
+pos = (681,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(121,296,o),
+(306,-24,o),
+(680,-24,cs),
+(1051,-24,o),
+(1241,288,o),
+(1241,609,cs),
+(1241,927,o),
+(1051,1228,o),
+(680,1228,cs),
+(310,1228,o),
+(121,927,o),
+(121,609,cs,{
+name = hr00;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(411,87,o),
+(349,368,o),
+(349,609,cs),
+(349,850,o),
+(413,1120,o),
+(682,1120,cs),
+(951,1120,o),
+(1016,861,o),
+(1016,609,cs),
+(1016,365,o),
+(951,87,o),
+(682,87,cs)
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 610;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 117;
+y = 0;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 1258;
+y = 0;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 681;
+y = 0;
+}
+);
+};
+width = 1364;
+}
+);
+unicode = 111;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = fraction;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(207,-334,l),
+(971,1972,l),
+(819,1972,l),
+(53,-334,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1025;
+}
+);
+unicode = 8260;
+}

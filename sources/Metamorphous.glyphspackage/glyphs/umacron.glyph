@@ -1,0 +1,19 @@
+{
+glyphname = umacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (85,0);
+ref = macron;
+}
+);
+width = 1361;
+}
+);
+unicode = 363;
+}

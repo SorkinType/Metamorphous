@@ -1,0 +1,15 @@
+{
+glyphname = caronvertical;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (16,1408);
+ref = comma;
+}
+);
+width = 559;
+}
+);
+}

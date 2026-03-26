@@ -1,0 +1,19 @@
+{
+glyphname = Lcaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (772,1408);
+ref = comma;
+}
+);
+width = 1364;
+}
+);
+unicode = 317;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Zacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (408,0);
+ref = acute.cap;
+}
+);
+width = 1364;
+}
+);
+unicode = 377;
+}

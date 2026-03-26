@@ -1,0 +1,19 @@
+{
+glyphname = ugrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (197,0);
+ref = grave;
+}
+);
+width = 1361;
+}
+);
+unicode = 249;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Scircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (212,0);
+ref = circumflex.cap;
+}
+);
+width = 1364;
+}
+);
+unicode = 348;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Imacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (122,0);
+ref = macron.cap;
+}
+);
+width = 848;
+}
+);
+unicode = 298;
+}

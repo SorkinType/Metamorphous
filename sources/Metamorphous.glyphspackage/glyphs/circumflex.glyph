@@ -1,0 +1,32 @@
+{
+glyphname = circumflex;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (603,1530);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(603,1706,l),
+(873,1364,l),
+(958,1406,l),
+(732,1859,l),
+(476,1859,l),
+(248,1406,l),
+(333,1364,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1189;
+}
+);
+unicode = 710;
+}

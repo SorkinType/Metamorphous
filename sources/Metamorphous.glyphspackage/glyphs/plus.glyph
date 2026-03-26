@@ -1,0 +1,79 @@
+{
+glyphname = plus;
+layers = (
+{
+guides = (
+{
+pos = (0,886);
+},
+{
+pos = (0,794);
+},
+{
+angle = 90;
+pos = (590,0);
+},
+{
+angle = 90;
+pos = (693,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(785,278,l),
+(785,753,l),
+(1220,753,l),
+(1260,919,l),
+(785,919,l),
+(785,1396,l),
+(616,1396,l),
+(616,919,l),
+(139,919,l),
+(99,753,l),
+(616,753,l),
+(616,278,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 886;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 794;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 590;
+y = 0;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 693;
+y = 0;
+}
+);
+};
+width = 1360;
+}
+);
+unicode = 43;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = colon;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (258,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (1,0);
+ref = period;
+},
+{
+pos = (1,887);
+ref = period;
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 258;
+y = 0;
+}
+);
+};
+width = 512;
+}
+);
+unicode = 58;
+}

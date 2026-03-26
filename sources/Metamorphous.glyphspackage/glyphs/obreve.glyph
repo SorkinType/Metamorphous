@@ -1,0 +1,19 @@
+{
+glyphname = obreve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (88,0);
+ref = breve;
+}
+);
+width = 1364;
+}
+);
+unicode = 335;
+}

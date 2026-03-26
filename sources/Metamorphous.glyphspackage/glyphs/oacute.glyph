@@ -1,0 +1,19 @@
+{
+glyphname = oacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (198,0);
+ref = acute;
+}
+);
+width = 1364;
+}
+);
+unicode = 243;
+}

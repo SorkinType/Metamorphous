@@ -1,0 +1,29 @@
+{
+glyphname = grave;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (482,1530);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(636,1404,l),
+(383,1870,l),
+(182,1736,l),
+(547,1349,l,{
+name = hr00;
+})
+);
+}
+);
+width = 850;
+}
+);
+unicode = 96;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Abreve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (256,0);
+ref = breve.cap;
+}
+);
+width = 1534;
+}
+);
+unicode = 258;
+}

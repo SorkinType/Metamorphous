@@ -1,0 +1,19 @@
+{
+glyphname = Igrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (107,0);
+ref = grave.cap;
+}
+);
+width = 848;
+}
+);
+unicode = 204;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = zcaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (48,0);
+ref = caron;
+}
+);
+width = 1193;
+}
+);
+unicode = 382;
+}

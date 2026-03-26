@@ -1,0 +1,64 @@
+{
+glyphname = dieresis;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (510,1530);
+}
+);
+guides = (
+{
+pos = (0,1938);
+},
+{
+pos = (0,1463);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(926,1612,l),
+(747,1791,l),
+(564,1612,l),
+(747,1432,l,{
+name = hr00;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(456,1612,l),
+(277,1791,l),
+(94,1612,l),
+(277,1432,l)
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1938;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1463;
+}
+);
+};
+width = 1020;
+}
+);
+unicode = 168;
+}

@@ -1,0 +1,31 @@
+{
+glyphname = circumflex.cap;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (513,1530);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(513,1758,l),
+(784,1586,l),
+(848,1650,l),
+(606,1931,l),
+(420,1931,l),
+(178,1650,l),
+(242,1586,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1019;
+}
+);
+}

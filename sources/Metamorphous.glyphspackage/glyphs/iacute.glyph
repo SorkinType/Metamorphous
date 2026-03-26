@@ -1,0 +1,19 @@
+{
+glyphname = iacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-125,0);
+ref = acute;
+}
+);
+width = 680;
+}
+);
+unicode = 237;
+}

@@ -1,0 +1,31 @@
+{
+glyphname = onehalf;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(835,-354,l),
+(1598,1970,l),
+(1447,1970,l),
+(681,-354,l,{
+name = hr00;
+})
+);
+},
+{
+pos = (22,1);
+ref = onesuperior;
+},
+{
+pos = (1320,-778);
+ref = twosuperior;
+}
+);
+width = 2649;
+}
+);
+unicode = 189;
+}

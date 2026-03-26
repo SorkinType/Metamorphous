@@ -1,0 +1,19 @@
+{
+glyphname = ytilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (83,0);
+ref = tilde;
+}
+);
+width = 1361;
+}
+);
+unicode = 7929;
+}

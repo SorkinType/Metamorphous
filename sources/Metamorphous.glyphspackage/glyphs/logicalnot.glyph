@@ -1,0 +1,25 @@
+{
+glyphname = logicalnot;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1048,917,l),
+(1048,473,l),
+(1216,473,l),
+(1216,1085,l),
+(183,1085,l),
+(143,917,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1360;
+}
+);
+unicode = 172;
+}

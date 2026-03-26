@@ -1,0 +1,19 @@
+{
+glyphname = dcaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (1238,1408);
+ref = comma;
+}
+);
+width = 1701;
+}
+);
+unicode = 271;
+}

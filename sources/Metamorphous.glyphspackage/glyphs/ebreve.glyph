@@ -1,0 +1,19 @@
+{
+glyphname = ebreve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (65,0);
+ref = breve;
+}
+);
+width = 1195;
+}
+);
+unicode = 277;
+}
